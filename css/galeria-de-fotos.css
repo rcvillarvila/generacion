@@ -609,6 +609,130 @@ html
 	background: #FFFFFF url("../image/foto1.jpg") no-repeat left top;
 }
 
+
+#abril1
+{
+	z-index: 2;
+	width: 399px;
+	height: 224px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -401px;
+	left: 395px;
+	background: #FFFFFF url("../image/abril14-01.jpg") no-repeat left top;
+}
+
+
+#abril2
+{
+	z-index: 2;
+	width: 399px;
+	height: 224px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -401px;
+	left: 395px;
+	background: #FFFFFF url("../image/abril14-02.jpg") no-repeat left top;
+}
+
+
+#abril3
+{
+	z-index: 2;
+	width: 399px;
+	height: 224px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -401px;
+	left: 395px;
+	background: #FFFFFF url("../image/abril14-03.jpg") no-repeat left top;
+}
+
+
+
+
+
+
+#gua3
+{
+	z-index: 2;
+	width: 399px;
+	height: 224px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -401px;
+	left: 395px;
+	background: #FFFFFF url("../image/patio1.jpg") no-repeat left top;
+}
+
+
+#gua4
+{
+	z-index: 2;
+	width: 399px;
+	height: 224px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -401px;
+	left: 395px;
+	background: #FFFFFF url("../image/patio guadalupe2.jpg") no-repeat left top;
+}
+
+
+#gua2
+{
+	z-index: 2;
+	width: 399px;
+	height: 224px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -401px;
+	left: 395px;
+	background: #FFFFFF url("../image/patio2.jpg") no-repeat left top;
+}
+
+#gua
+{
+	z-index: 2;
+	width: 399px;
+	height: 224px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -401px;
+	left: 395px;
+	background: #FFFFFF url("../image/patio guadalupe1.jpg") no-repeat left top;
+}
+
+
+#seti
+{
+	z-index: 2;
+	width: 399px;
+	height: 224px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -401px;
+	left: 395px;
+	background: #FFFFFF url("../image/transandino.jpg") no-repeat left top;
+}
+
+
 #n130
 {
 	z-index: 7;
